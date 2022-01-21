@@ -1,5 +1,7 @@
 package coffeemachine;
 
+
+
 public class Task1 {
     public static void main(String[] args) {
         System.out.println("Coffee Machine");
